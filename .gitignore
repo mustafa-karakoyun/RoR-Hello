@@ -1,0 +1,13 @@
+
+# Gem'leri yükleme (herkes kendisi bundle install yapmalı)
+/vendor/bundle/
+
+# Veritabanı dosyalarını yükleme
+/storage/*.sqlite3
+/storage/*.sqlite3-journal
+
+# Log ve geçici dosyaları yükleme
+/log/*
+/tmp/*
+.DS_Store
+
